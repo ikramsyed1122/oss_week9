@@ -1,3 +1,4 @@
 Name	Department
 ----	----------
 김성준  철학과
+HongSeongHo ComputerScience
